@@ -1,0 +1,8 @@
+C:\Data Sructures and Algorithm\Singly Student Management\Singly_Student_Management\bin\Debug\Singly_Student_Management.exe.config
+C:\Data Sructures and Algorithm\Singly Student Management\Singly_Student_Management\bin\Debug\Singly_Student_Management.exe
+C:\Data Sructures and Algorithm\Singly Student Management\Singly_Student_Management\bin\Debug\Singly_Student_Management.pdb
+C:\Data Sructures and Algorithm\Singly Student Management\Singly_Student_Management\obj\Debug\Singly_Student_Management.csproj.AssemblyReference.cache
+C:\Data Sructures and Algorithm\Singly Student Management\Singly_Student_Management\obj\Debug\Singly_Student_Management.csproj.CoreCompileInputs.cache
+C:\Data Sructures and Algorithm\Singly Student Management\Singly_Student_Management\obj\Debug\Singly_Student_Management.exe
+C:\Data Sructures and Algorithm\Singly Student Management\Singly_Student_Management\obj\Debug\Singly_Student_Management.pdb
+C:\Data Sructures and Algorithm\Singly Student Management\Singly_Student_Management\obj\Debug\Singly_Student_Management.exe.config
