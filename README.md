@@ -125,10 +125,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 GitHub:https://github.com/JP3756
 
 ```
-
----
-
-If you want, I can also **add a diagram showing how the Student nodes link together in the singly linked list** to make this README even more **visual and professional** for GitHub.  
-
-Do you want me to add that diagram?
-```
